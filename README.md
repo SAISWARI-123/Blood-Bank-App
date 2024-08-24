@@ -73,6 +73,12 @@ npm install
    cd client
    npm start
    ```
+- **Concurrently start both frontend and backend server:**
+
+  ```bash
+  
+  npm run dev
+    
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
